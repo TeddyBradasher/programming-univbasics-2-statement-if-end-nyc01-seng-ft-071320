@@ -1,6 +1,4 @@
 # Write your solution here
-
-current time = Time.now
 if Time.now.to_i.even?
   puts "Even!"
 else
