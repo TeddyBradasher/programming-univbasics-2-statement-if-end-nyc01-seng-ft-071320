@@ -1,5 +1,5 @@
 # Write your solution here
-if true
+if time.now true
   puts "Even!"
 else
   puts "Odd!"
