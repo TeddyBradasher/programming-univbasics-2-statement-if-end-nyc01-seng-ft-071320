@@ -1,9 +1,8 @@
 # Write your solution here
-def time
+
 current time = Time.now
-if Time.now.to_i == even?
+if Time.now.to_i.even?
   puts "Even!"
 else
   puts "Odd!"
-end
 end
